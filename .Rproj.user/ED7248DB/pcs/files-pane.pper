@@ -1,0 +1,9 @@
+{
+    "path" : "~/dynamic_analysis/output",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
